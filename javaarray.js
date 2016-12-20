@@ -2,7 +2,7 @@
 names.forEach(function(value) {
   console.log(value);  
 });
-// prints a b c by Saravanan123
+// prints a b c by Saravanan123 Modified
 
 var items = [ { id: 1 }, { id: 2}, { id: 3}, { id: 4 }];
 // only include items with even id's
