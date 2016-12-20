@@ -18,6 +18,7 @@ function findEvenNosonly(i, array ) {
 	console.log('arraylength ' + array.length);
 	console.log(array);
 	console.log('i is = '+ i+'  ,length = ' + array.length);
+	array.forEachAsync()
     if( i < array.length ) {		
         if( ! (array[i] % 2) ) {
                 setTimeout( function() {
