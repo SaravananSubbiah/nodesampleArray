@@ -1,8 +1,8 @@
-/*var names = ['a', 'b', 'c'];
+﻿/*var names = ['a', 'b', 'c'];
 names.forEach(function(value) {
   console.log(value);  
 });
-// prints a b c
+// prints a b c by Saravanan
 
 var items = [ { id: 1 }, { id: 2}, { id: 3}, { id: 4 }];
 // only include items with even id's
